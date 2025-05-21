@@ -1,3 +1,4 @@
+Link de la pagina web en infinity free: https://jalel.great-site.net/
 # 🐱‍🏍 Miniweb Pokémon
 
 Esta miniweb muestra una lista de Pokémon con su tipo, generación y una breve descripción, extraída desde una base de datos MySQL. Está desarrollada con **PHP**, usando **Bootstrap 5** para diseño responsive y **jQuery** para interacción dinámica.
@@ -39,3 +40,4 @@ if ($conn->connect_error) {
 
 $conn->set_charset("utf8");
 ?>
+
